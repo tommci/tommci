@@ -1,13 +1,21 @@
-# Thomas McInnes
-### Bachelor of Computer Science at Colorado School of Mines
+# Hey, I'm Thomas :black_cat:
+### <sub> Also known as Thom </sub>
+### I'm a Bachelor of Computer Science at [Colorado School of Mines](https://cs.mines.edu/)
 
-I'm currently a 3rd year at Mines, with a focus in Computer Engineering. Programming is not only part of my studies, but is also a hobby that I enjoy doing and researching on a frequent basis.
-Take a look at some of my public repos for projects I'm working on! Some are for my classes at Mines, and some are personal. Any school project repositories will have "csci" at the start of their name.
+- This is my 3rd year at Mines, with a focus in Computer Engineering. I want to know all I can about computers and how they work!
+- Currently looking for internship roles in Software Engineering, Developing, or Hardware Engineering.
+- I have a special interest in VR/AR tech, and have been considering some projects involving them.
+- Programming is not only part of my studies, but is also a hobby that I enjoy doing and researching on a frequent basis.
+- Many of my projects are public here within my repos. Take a look! Some are for my classes at Mines, and some are personal. Any school project repositories will have "csci" at the start of their name.
 
 ### Connect with me!
 
-### Other fun stuff
+<a href="https://www.linkedin.com/in/thomasmcinnes/"><img src="https://raw.githubusercontent.com/tommci/tommci/master/Images/LinkedinLong.png" alt="LinkedIn" width="15%"></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommci&layout=compact&langs_count=10&theme=dark" />
+##
 
-*My profile picture is my girlfriend's cat. His name is Rune.*
+<p align="left"><img src="https://komarev.com/ghpvc/?username=tommci&color=blue" alt="tommci" /> </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommci&layout=compact&langs_count=10&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tommci&show_icons=true&count_private=true&hide_rank=true&hide=stars&theme=dark">
+
+> [!IMPORTANT]
+> *My profile picture is my girlfriend's cat. His name is Rune. :cat2:*
