@@ -19,4 +19,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommci&layout=compact&langs_count=10&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tommci&show_icons=true&count_private=true&hide_rank=true&hide=stars&theme=dark">
 
 > [!IMPORTANT]
-> *My profile picture is my girlfriend and I's cat, Pilot. :cat2:*
+> *My profile picture is my girlfriend and I's cat, Pilot. :black_cat:*
