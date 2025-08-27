@@ -11,7 +11,6 @@
 ### Connect with me!
 
 <a href="https://www.linkedin.com/in/thomasmcinnes/"><img src="https://raw.githubusercontent.com/tommci/tommci/master/Images/Linkedin.png" alt="LinkedIn" width="50"></a>
-<a href="https://www.instagram.com/thommci/"><img src="https://raw.githubusercontent.com/tommci/tommci/master/Images/IG.png" alt="LinkedIn" width="45"></a>
 
 ##
 
