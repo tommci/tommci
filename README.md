@@ -1,8 +1,8 @@
 # Hey, I'm Thomas :black_cat:
 ### <sub> Also known as Thom </sub>
-### I'm a Bachelor of Computer Science at [Colorado School of Mines](https://cs.mines.edu/)
+### I've recently obtained my bachelor's degree of Computer Science at [Colorado School of Mines](https://cs.mines.edu/)
 
-- This is my 4th year at Mines, with a focus in Computer Engineering. I want to know all I can about computers and how they work!
+- I want to know all I can about computers and how they work!
 - Programming is not only part of my studies, but is also a hobby that I enjoy doing and researching on a frequent basis.
 - Many of my projects are public here within my repos. Take a look! Some are for my classes at Mines, and some are personal. Any school project repositories will have "csci" at the start of their name.
 
@@ -16,4 +16,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommci&layout=compact&langs_count=10&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tommci&show_icons=true&count_private=true&hide_rank=true&hide=stars&theme=dark">
 
 > [!IMPORTANT]
-> *My profile picture is my girlfriend and I's cat, Pilot. :black_cat:*
+> *My profile picture is my cat Pilot. :black_cat:*
